@@ -1,0 +1,5 @@
+bin/
+.make/
+.envrc
+.DS_Store
+*.test
